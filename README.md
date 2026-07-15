@@ -1,19 +1,8 @@
 # harmonies of the world
 
-A journey through nested scales of harmony: darkness → galaxy → solar system →
-moons → Earth's surface → living geometry (sunflower, honeycomb, DNA, snowflake).
-The solar system runs on real dates — scrub time, jump to 1619, or hear the chord
-of your own birthday. Ends where it began: *the harmony did not disappear; you
-moved beyond the scale at which you could hear it.*
+A journey through different types of harmonies in the universe.
+darkness → galaxy → solar system → moons → Earth's surface → living geometry (sunflower, honeycomb, DNA, snowflake).
 
-## Originally: Harmonices Mundi — a singing solar system
-
-An interactive 3D data-sonification of the solar system, after Johannes Kepler's
-*Harmonices Mundi* (1619). Each planet is a musical voice: its pitch tracks how fast
-it sweeps around the Sun, so elliptical orbits become pitch-bends. Click planets to
-build a chord and hear the harmony (or dissonance) between them.
-
-Inspired by [phber/harmonices-mundi](https://github.com/phber/harmonices-mundi).
 
 ## Run it
 
