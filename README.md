@@ -5,9 +5,7 @@ darkness → galaxy → solar system → moons → Earth's surface → living ge
 
 
 ## Run it
-
-Open `index.html` in any modern browser (Three.js and Tone.js load from CDN — needs
-internet). Or serve it: `python3 -m http.server` and visit `http://localhost:8000`.
+coming soon
 
 ## How it works
 
